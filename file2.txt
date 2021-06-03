@@ -1,0 +1,4 @@
+linija1 promjena na grani
+lin2
+lin 3
+lin4
