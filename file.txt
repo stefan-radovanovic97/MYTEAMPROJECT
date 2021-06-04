@@ -1,2 +1,5 @@
 linija 1
 linija 2dsdsd
+nova linija
+nova linij2
+nova linija 3

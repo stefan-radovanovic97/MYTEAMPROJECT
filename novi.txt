@@ -1,3 +1,0 @@
-nova1
-nova 2
-nova 3
