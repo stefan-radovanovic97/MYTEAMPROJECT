@@ -1,4 +1,5 @@
-linija1 promjena na grani
+promjena na master grani u prvoj liniji linija1 promjena na grani
 lin2
 lin 3
 lin4
+
