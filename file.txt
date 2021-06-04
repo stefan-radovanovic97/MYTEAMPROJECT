@@ -1,5 +1,11 @@
 linija 1
+<<<<<<< HEAD
 linija 2dsdsd
 nova linija
 nova linij2++++++++++++111
+=======
+linija 2dsdsd---------
+nova linija------
+nova linij2------
+>>>>>>> feature/prva
 nova linija 3
